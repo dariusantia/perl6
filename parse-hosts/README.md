@@ -46,7 +46,7 @@ lxc240 .        .        .        203      .        .
 
 This uses perl6, but with a perl5 mentality. 
 
-# Attmpt 2
+# Attempt 2
 
 Realize that a grammar can cleanly capture the meaning of the
 input. Appropriate actions can be triggered as various rules are
